@@ -1,0 +1,5 @@
+﻿2022-11-27 16:07:40.2798|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2022-11-27 16:07:40.3788|ERROR|NlogDemo.Nlog|Expecting null values
+2022-11-27 16:07:40.3788|WARN|NlogDemo.Nlog|secondNumber or secondNumber should not be 0 
+2022-11-27 16:07:40.3788|DEBUG|NlogDemo.Nlog|Debug Successfull : Sum()
+2022-11-27 16:07:40.3788|INFO|NlogDemo.Nlog|Sum Method passed, Result1
